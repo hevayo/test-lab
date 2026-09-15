@@ -23,7 +23,7 @@ npm test          # three passing tests
 npm start         # http://localhost:3000
 ```
 
-Then follow the lab sheet from Part 0.
+Then follow the lab sheet from Part 0. sample
 
 ## Endpoints
 
